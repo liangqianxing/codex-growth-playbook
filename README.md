@@ -2,6 +2,12 @@
 
 A practical, continuously updated playbook for developers who want to get real value from Codex-style coding agents.
 
+## Entry links
+
+- Blog: https://liangqianxing.github.io/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84codex%E4%B8%8D%E9%99%90%E9%87%8F%E5%8F%B7%E6%B1%A0/
+- Relay: http://81.70.32.82/
+- Store: https://pay.ldxp.cn/shop/TUQKNUNV
+
 ## Why this repo
 
 Most "AI coding" repos are either too shallow or too theoretical.
